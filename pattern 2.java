@@ -1,6 +1,5 @@
 // Pyramid pattern
 import java.util.*;
-
 public class Main {
     public static void printPattern(int n)
     {
